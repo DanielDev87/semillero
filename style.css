@@ -1,0 +1,25 @@
+:root{
+  --bg: #5C3F3A ;
+  --accent: #39ff14;
+  --text: #cfefff;
+  --panel: #071024;
+  --retro: #ffd600;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+html,body{
+    height: 100%;margin: 0;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: radial-gradient(circle at 20% 20%, rgba(1, 4, 0, 0.04), transparent 8%),
+    linear-gradient(180deg,#071024 0%, #04121a 100%);
+    color:var(--text) ;
+}
+.container{width: 900px;
+max-width: 95%;
+padding: 20px}
+h1{font-size: 20px;
+margin: 0;
+color: var(--retro);}
