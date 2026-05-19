@@ -1,47 +1,38 @@
-# semillero
+# Semillero Aventura Web Level -UP
 Juego de PingPong desarrollado con HTML,CSS y JS
 
-# Project Title
+## Descripción
 
-Simple overview of use/purpose.
+Con tecnologías básicas de la web, he creado un versión para navegadores del famoso juego de Ping Pong.
 
-## Description
+## A tener en cuenta
 
-An in-depth paragraph about your project and overview of use.
+### Dependencias
 
-## Getting Started
+* Para desarrollarlo utilicé: HTML 5, CSS3, JavaScript.
+* Puedes abrirlo desde cualquier navegador web.
 
-### Dependencies
+### Instalación
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+* Para probar y mejorar el código puedes simplemente clonar este repositorio o crearte un fork
+* Una vez descargado puedes abrirlo con cualquier editor de texto, sin embargo te recomiendo un editor de código como VSCode
+* Si quieres abrirlo desde el administrador de archivos, ve a la carpeta que lo contiene y simplemente haz doble clic en el archivo index.html y tu navegador lo renderizará.
+* Si quieres abrirlo desde un editor de código como VSCode te recomiendo la extensión Live Server
+* Una vez la tengas instalada, desde el editor presiona el clic derecho en el index.html y dale clic en la opción: "Abrir con Live Server"
 
-### Installing
+## Ayuda y soporte
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
-
-### Executing program
-
-* How to run the program
-* Step-by-step bullets
+Si requieres ayuda o soporte para este juego puedes contactarme directamente por medio de GitHub y con gusto te responderé.
 ```
-code blocks for commands
+EL mismo juego contiene las instrucciones de como debes jugarlo.
 ```
 
-## Help
+## Autores
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+Desarrollador Principal
 
-## Authors
-
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+ex. Daniel Felipe Agudelo Molina  
+ex. [@DanielDev87](https://github.com/DanielDev87)
 
 ## Version History
 
@@ -53,9 +44,9 @@ ex. [@DomPizzie](https://twitter.com/dompizzie)
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+Este proyecto tiene la licenia MIT para proyectos academicos y de aula 
 
-## Acknowledgments
+## Lo que debes saber: 
 
 Si quieres probar este juego visita el siguiente enlace:
 * [juego-pingpong](https://github.com/matiassingers/awesome-readme)
