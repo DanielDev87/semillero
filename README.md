@@ -49,4 +49,4 @@ Este proyecto tiene la licenia MIT para proyectos academicos y de aula
 ## Lo que debes saber: 
 
 Si quieres probar este juego visita el siguiente enlace:
-* [juego-pingpong](https://github.com/matiassingers/awesome-readme)
+* [juego-pingpong](https://pingpongdanieldev.netlify.app/)
